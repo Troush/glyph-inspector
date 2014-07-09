@@ -4,7 +4,7 @@
  */
 define([
     'ufojs/errors'
-  , 'ufojs/tools/io/_base'
+  , '../../../lib/ufoJS/lib/tools/io/_base'
   , '../../../lib/obtainJS/lib/obtain'
 ], function(
     errors
